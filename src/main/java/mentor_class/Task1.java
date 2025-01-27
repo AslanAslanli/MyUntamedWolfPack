@@ -13,7 +13,6 @@ public class Task1 {
     }
 
     public static String printMessage() {
-        System.out.println("Hello from the printMessage method!");
-        return null;
+        return "Hello from the printMessage method!";
     }
 }
