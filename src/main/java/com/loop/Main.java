@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Hello bungi jungies!");
         System.out.println("Commiting Develop branch");
         System.out.println("Commiting Develop branch from Ayaz");
+        System.out.println("I made some changes");
     }
 }
