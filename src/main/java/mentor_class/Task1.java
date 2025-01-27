@@ -8,7 +8,7 @@ public class Task1 {
         System.out.println("The number is: " + number);
 
 
-        String message = getMessage();
+        String message = printMessage();
         System.out.println(message);
     }
 
